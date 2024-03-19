@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donald Wong</h1>
-<h3 align="center">A passionate new developer from Taiwan</h3>
+<h3 align="center">A passionate Coding Muggle from Taiwan</h3>
 
 - 🌱 I’m currently learning **Alpha Camp coding bootcamp TaiWan**
 
