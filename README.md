@@ -1,9 +1,9 @@
 # 💫 About Me:
- A passionate Coding Muggle from Taiwan<br><br>🔭  Finished Taiwan Alpha Camp coding bootcamp as backend engineer<br>🌱 I’m currently learning in backend engineering and python<br><br>
+ A passionate Software Product Manager from Hong Kong living in Taiwant<br><br>🔭  Finished Taiwan Alpha Camp coding bootcamp as backend engineer<br>🌱 I’m currently working as a product manager in a SaaS startup<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wong-sui-sang/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wongsuisang/) 
 
 # 💻 Tech Stack:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
